@@ -9,9 +9,9 @@
 <body>
 User Details
 <hr>
-User Name   : ${user.name} <br/>
-Gender      : ${user.gender} <br/>
-Country     : ${user.country} <br/>
+User Name   : ${user.names} <br/>
+Gender      : ${user.genders} <br/>
+Country     : ${user.whichcountry} <br/>
 About You   : ${user.aboutYou} <br/>
 Community   : ${user.community[0]}  ${user.community[1]} ${user.community[2]}<br/>
 Mailing List: ${user.mailingList} 
